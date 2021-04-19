@@ -1,0 +1,13 @@
+﻿Origem.obj : error LNK2019: símbolo externo indefinido glfwInit referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwTerminate referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwCreateWindow referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwWindowShouldClose referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwSetWindowShouldClose referenciado na função "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z)
+Origem.obj : error LNK2019: símbolo externo indefinido glfwGetFramebufferSize referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwPollEvents referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwSetKeyCallback referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwMakeContextCurrent referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwSwapBuffers referenciado na função main
+Origem.obj : error LNK2019: símbolo externo indefinido glfwGetProcAddress referenciado na função main
+C:\Users\PC\Desktop\Unisinos\Processamento Grafico\PG2021-1\dependencies\GLFW-3.3.2-libWIN32\lib-vc2019\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\PC\Desktop\Unisinos\Processamento Grafico\PG2021-1\Lista2\x64\Debug\exe1.exe : fatal error LNK1120: 11 externo não resolvidos
